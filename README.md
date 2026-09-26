@@ -71,4 +71,4 @@ Build data pipelines, lakehouse models and AI agents on Azure, Databricks, Snowf
 
 Open to **Data Engineer** and **SDE** roles.
 
-[GitHub](https://github.com/SAISURYACHAITANYAGATTREDDI) · [LinkedIn](https://www.linkedin.com/in/sai-suryachaitanya-gattreddi-40217b2b3) · [LeetCode](https://leetcode.com/u/SURYA_1828/) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/surya1828/) · [Coding Ninjas](https://www.naukri.com/code360/profile/532cf872-b151-45af-89f0-427b840ec55f) · [Portfolio](https://surya-portfolio-seven-drab.vercel.app) · [Email](mailto:saisuryachaitanyagattreddi@gmail.com)
+[GitHub](https://github.com/SAISURYACHAITANYAGATTREDDI) · [LinkedIn](https://www.linkedin.com/in/sai-suryachaitanya-gattreddi-40217b2b3) · [LeetCode](https://leetcode.com/u/SURYA_1828/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/surya1828?tab=activity) · [Coding Ninjas](https://www.naukri.com/code360/profile/532cf872-b151-45af-89f0-427b840ec55f) · [Portfolio](https://surya-portfolio-seven-drab.vercel.app) · [Email](mailto:saisuryachaitanyagattreddi@gmail.com)
