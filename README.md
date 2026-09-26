@@ -23,7 +23,7 @@ Build data pipelines, lakehouse models and AI agents on Azure, Databricks, Snowf
 
 | Project | What I built | Stack |
 | --- | --- | --- |
-| **DRAI: Data Readiness for AI**<br>Sep 2026 – Present | A framework that scores any dataset on 15 data-readiness dimensions and returns one weighted AI-readiness score with Pass / Review / Fail verdicts. Streamlit app on Databricks Apps with Claude-generated remediation guidance. | Databricks, PySpark, Delta Live Tables, MLflow, Unity Catalog |
+| **DRAI: Data Readiness for AI**<br>Sep 2026 – Oct 2026 | A framework that scores any dataset on 15 data-readiness dimensions and returns one weighted AI-readiness score with Pass / Review / Fail verdicts. Streamlit app on Databricks Apps with Claude-generated remediation guidance. | Databricks, PySpark, Delta Live Tables, MLflow, Unity Catalog |
 | **Multi-Agent Price Lineage**<br>Aug – Sep 2026 | Retail PoC: real-time pricing-event pipeline, root-cause lineage tables in Unity Catalog, two Genie Spaces and a Mosaic AI supervisor agent behind a Streamlit chat app. | Databricks, Kafka, Elasticsearch, AWS EC2, PySpark |
 | **Aviation Analytics Medallion Platform**<br>Jul – Aug 2026 | Bronze / Silver / Gold platform (8 dimensions, 6 facts) with 13 + 14 stored procedures, SCD Type 1 and incremental UPSERTs; migrated from Redshift to Snowflake. | Amazon Redshift, Snowflake, SQL |
 | **Healthcare Data Harmonization**<br>Oct 2025 – Apr 2026 | SQL KPI views, Power BI reporting and AI agents on AAVA and Copilot Studio; the rebuilt agent reached ~95%+ success rate with 100% SLA compliance. | SQL, Power BI, Copilot Studio, Dataverse |
