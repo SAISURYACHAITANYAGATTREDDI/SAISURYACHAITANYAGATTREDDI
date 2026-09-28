@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Sai Surya Chaitanya Gattreddi, Data Engineer and Software Development Engineer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img src="./assets/dark.svg" alt="Sai Surya Chaitanya Gattreddi, Data Engineer and Software Development Engineer" width="100%">
 </picture>
 
 ## About
