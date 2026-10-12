@@ -1,6 +1,6 @@
 <img src="./modern/chooser.svg?v=2" alt="One profile, two views" width="100%">
 
-<p align="center"><a href="./classic/README.md"><img src="./modern/btn-classic.svg?v=2" alt="Classic view" width="48%"></a>&nbsp;<a href="https://github.com/SAISURYACHAITANYAGATTREDDI"><img src="./modern/btn-modern-on.svg?v=2" alt="Modern view (current)" width="48%"></a></p>
+<p align="center"><a href="https://github.com/SAISURYACHAITANYAGATTREDDI/SAISURYACHAITANYAGATTREDDI/tree/main/classic"><img src="./modern/btn-classic.svg?v=2" alt="Classic view" width="48%"></a>&nbsp;<a href="https://github.com/SAISURYACHAITANYAGATTREDDI"><img src="./modern/btn-modern-on.svg?v=2" alt="Modern view (current)" width="48%"></a></p>
 
 <img src="./modern/hero.svg?v=2" alt="Sai Surya Chaitanya Gattreddi, Data Engineer and Software Development Engineer" width="100%">
 <img src="./modern/about-life.svg?v=2" alt="What I build, and off the clock" width="100%">

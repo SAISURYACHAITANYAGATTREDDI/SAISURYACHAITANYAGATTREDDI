@@ -1,6 +1,6 @@
 <img src="../modern/chooser.svg?v=2" alt="One profile, two views" width="100%">
 
-<p align="center"><a href="../classic/README.md"><img src="../modern/btn-classic-on.svg?v=2" alt="Classic view (current)" width="48%"></a>&nbsp;<a href="https://github.com/SAISURYACHAITANYAGATTREDDI"><img src="../modern/btn-modern.svg?v=2" alt="Modern view" width="48%"></a></p>
+<p align="center"><a href="https://github.com/SAISURYACHAITANYAGATTREDDI/SAISURYACHAITANYAGATTREDDI/tree/main/classic"><img src="../modern/btn-classic-on.svg?v=2" alt="Classic view (current)" width="48%"></a>&nbsp;<a href="https://github.com/SAISURYACHAITANYAGATTREDDI"><img src="../modern/btn-modern.svg?v=2" alt="Modern view" width="48%"></a></p>
 
 <!-- classic -->
 <picture>
