@@ -1,3 +1,8 @@
+<img src="./modern/chooser.svg?v=1" alt="Choose a view: Classic or Modern. Modern is open below." width="100%">
+
+<details>
+<summary><b>Classic</b> · the original terminal-style profile</summary>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
@@ -13,7 +18,7 @@ Data Engineer with 1+ year of experience building ETL/ELT pipelines, lakehouse d
 - Lakehouse and medallion data platforms on Databricks, Snowflake and Microsoft Fabric
 - AI agents with Databricks Genie, Mosaic AI Agent Framework and Microsoft Copilot Studio
 - Full-stack AI SaaS with Next.js and RAG
-- 500+ data structure and algorithm problems solved
+- 1000+ data structure and algorithm problems solved
 
 ## Experience
 
@@ -72,3 +77,26 @@ Build data pipelines, lakehouse models and AI agents on Azure, Databricks, Snowf
 Open to **Data Engineer** and **SDE** roles.
 
 [GitHub](https://github.com/SAISURYACHAITANYAGATTREDDI) · [LinkedIn](https://www.linkedin.com/in/sai-suryachaitanya-gattreddi-40217b2b3) · [LeetCode](https://leetcode.com/u/SURYA_1828/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/surya1828?tab=activity) · [Coding Ninjas](https://www.naukri.com/code360/profile/532cf872-b151-45af-89f0-427b840ec55f) · [Portfolio](https://surya-portfolio-seven-drab.vercel.app) · [Email](mailto:saisuryachaitanyagattreddi@gmail.com)
+
+</details>
+
+<details open>
+<summary><b>Modern</b> · the new animated cards</summary>
+
+<img src="./modern/hero.svg?v=1" alt="Sai Surya Chaitanya Gattreddi, Data Engineer and Software Development Engineer" width="100%">
+<img src="./modern/about-life.svg?v=1" alt="What I build" width="100%">
+<img src="./modern/stack.svg?v=1" alt="Engineering stack" width="100%">
+<img src="./modern/id-dashboard.svg?v=1" alt="Developer ID and verified numbers" width="100%">
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **DRAI: Data Readiness for AI** | Scores any dataset on 15 data-readiness dimensions and returns one weighted AI-readiness score with Pass / Review / Fail verdicts. | Databricks, PySpark, Delta Live Tables, MLflow |
+| **Multi-Agent Price Lineage** | Real-time pricing-event pipeline, root-cause lineage tables and a Mosaic AI supervisor agent over two Genie Spaces. | Databricks, Kafka, Elasticsearch, AWS EC2 |
+| **EchoMail AI** | AI email SaaS that cut response time by 65% across 50K+ emails, with 95% accurate categorization. | Next.js, Prisma, OpenAI GPT, Stripe |
+| **[Sentiment Analysis using BERT](https://github.com/SAISURYACHAITANYAGATTREDDI/SENTIMENTAL-ANALYSIS-USING-BERT)** | Amazon reviews classifier: 95.02% accuracy, 98.81% ROC AUC. | Python, BERT |
+
+<img src="./modern/connect.svg?v=1" alt="Connect" width="100%">
+
+<p align="center"><a href="https://www.linkedin.com/in/sai-suryachaitanya-gattreddi-40217b2b3">LinkedIn</a> · <a href="https://github.com/SAISURYACHAITANYAGATTREDDI">GitHub</a> · <a href="https://leetcode.com/u/SURYA_1828/">LeetCode</a> · <a href="https://www.geeksforgeeks.org/profile/surya1828?tab=activity">GeeksforGeeks</a> · <a href="https://surya-portfolio-seven-drab.vercel.app">Portfolio</a> · <a href="mailto:saisuryachaitanyagattreddi@gmail.com">Email</a></p>
+
+</details>
