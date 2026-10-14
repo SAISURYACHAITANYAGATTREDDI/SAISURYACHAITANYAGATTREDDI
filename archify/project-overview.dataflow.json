@@ -113,10 +113,10 @@
       "id": "snake",
       "type": "cloud",
       "label": "Snake Workflow",
-      "sublabel": "GitHub Actions",
+      "sublabel": "snk + grow step",
       "stage": 4,
       "row": 2,
-      "tag": "daily"
+      "tag": "grows"
     }
   ],
   "flows": [
@@ -256,8 +256,8 @@
       "id": "snake-svg",
       "from": "snake",
       "to": "classic-page",
-      "label": "snake images",
-      "classification": "output branch",
+      "label": "growing snake",
+      "classification": "+1 per square",
       "variant": "dashed",
       "labelAt": [
         960,
