@@ -94,20 +94,20 @@
     {
       "id": "profile",
       "type": "frontend",
-      "label": "Profile Page",
-      "sublabel": "Modern view",
+      "label": "Modern View",
+      "sublabel": "open by default",
       "stage": 4,
       "row": 0,
-      "tag": "default"
+      "tag": "toggle"
     },
     {
       "id": "classic-page",
       "type": "frontend",
-      "label": "Classic Page",
-      "sublabel": "classic/README.md",
+      "label": "Classic View",
+      "sublabel": "same profile page",
       "stage": 4,
       "row": 1,
-      "tag": "1 click"
+      "tag": "toggle"
     },
     {
       "id": "snake",
@@ -188,8 +188,8 @@
       "id": "modern-files",
       "from": "modern-gen",
       "to": "preview",
-      "label": "cards + READMEs",
-      "classification": "2 preview pages",
+      "label": "cards + README",
+      "classification": "1 preview page",
       "variant": "emphasis"
     },
     {
@@ -220,8 +220,8 @@
       "id": "push-classic",
       "from": "repo",
       "to": "classic-page",
-      "label": "same push",
-      "classification": "classic/",
+      "label": "same README",
+      "classification": "README.md",
       "variant": "default"
     },
     {
@@ -244,8 +244,8 @@
       "id": "switch",
       "from": "profile",
       "to": "classic-page",
-      "label": "buttons",
-      "classification": "switch views",
+      "label": "toggle",
+      "classification": "in place",
       "variant": "emphasis",
       "labelAt": [
         960,
@@ -270,8 +270,8 @@
       "dot": "emerald",
       "title": "Two Views, One Profile",
       "items": [
-        "Modern opens by default; Classic is one click away",
-        "Buttons are linked pictures: GitHub cannot switch views in place",
+        "Modern opens by default; tap the Classic bar to switch",
+        "Both views share one page: opening one closes the other",
         "Classic text is carried over word for word"
       ]
     },
@@ -280,7 +280,7 @@
       "title": "Build and Review",
       "items": [
         "Classic generator: text-art banners for dark and light mode",
-        "Modern generator: banner, buttons and five animated cards",
+        "Modern generator: banner, toggle bars and five animated cards",
         "Only your own bio facts; nothing pushed before your yes"
       ]
     },
@@ -288,7 +288,7 @@
       "dot": "orange",
       "title": "Live and Housekeeping",
       "items": [
-        "GitHub Actions refreshes the contribution snake every day",
+        "The snake grows as it eats and refreshes every day",
         "Each card is self-contained: fonts and photo inside, no scripts",
         "Project notes and the handbook keep the rebuild steps"
       ]
