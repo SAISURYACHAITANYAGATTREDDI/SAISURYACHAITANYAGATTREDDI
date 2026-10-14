@@ -23,7 +23,7 @@
 <text class="m" x="56" y="54" font-size="14" letter-spacing="2" fill="#8d99b8"><tspan fill="#247bff">00</tspan>  /  CHOOSE A VIEW</text><path d="M1099 39h9l-9 20h-9z" fill="#ff354f"/><path d="M1114 39h9l-9 20h-9z" fill="#ff354f"/><path d="M1129 39h9l-9 20h-9z" fill="#ff354f"/>
 <circle cx="980" cy="120" r="260" fill="url(#v-gr)"/><circle cx="260" cy="120" r="280" fill="url(#v-gb)"/>
 <text class="d fade" x="54" y="152" font-size="84" fill="#eef2ff">ONE PROFILE. <tspan fill="#247bff">TWO VIEWS</tspan><tspan fill="#ff354f">.</tspan></text>
-<text class="m fade" style="animation-delay:.3s" x="56" y="192" font-size="16" fill="#8d99b8">Tap a button below to switch views.</text>
+<text class="m fade" style="animation-delay:.3s" x="56" y="192" font-size="16" fill="#8d99b8">Tap a bar below to switch views.</text>
 </g>
 <rect x=".75" y=".75" width="1198.5" height="218.5" rx="25.5" fill="none" stroke="url(#v-edge)" stroke-width="1.5"/>
 </svg>
